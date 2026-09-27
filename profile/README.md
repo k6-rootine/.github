@@ -1,6 +1,12 @@
 # Rootine
 
-Welcome to the home of the **Rootine** project! Here you will find all of its repositories:
+Welcome to the home of the **Rootine** project!
+
+## Get started
+
+New to the project? Follow the **[Getting Started guide](https://github.com/k6-rootine/.github/blob/main/getstarted.md)** to set everything up.
+
+## Repositories
 
 | Repository | Description |
 |---|---|
