@@ -52,7 +52,7 @@ k6-rootine/
 
 ### Get the latest changes
 
-Before you start working, always download your teammates' latest changes:
+Before you start working, **always** download latest changes:
 
 ```bash
 cd rootine
@@ -114,7 +114,7 @@ git commit
 git push
 ```
 
-## 📋 Quick reference
+## Quick reference
 
 | Command | What it does |
 |---|---|
